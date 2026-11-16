@@ -1,0 +1,9 @@
+# Aplicaciones descargadas (se instalan siguiendo el README)
+html/wordpress/
+html/joomla/
+
+# Archivos descargados
+*.zip
+
+# Variables de entorno
+.env
